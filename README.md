@@ -1,6 +1,6 @@
 # BasicLaneDetection
 This code tells how to detect lane lines using Computer Vision
-#Prerequisite
+# Prerequisite
 Python version 3.x
 
 You'll need the following libraries-
@@ -8,7 +8,7 @@ You'll need the following libraries-
 * Matplotlib
 * numPy
 
-#Download using pip-
-*pip install opencv-python
-*pip install matplotliib
-*pip install numpy
+# Download using pip-
+* pip install opencv-python
+* pip install matplotliib
+* pip install numpy
