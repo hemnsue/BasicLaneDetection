@@ -14,7 +14,7 @@ You'll need the following libraries-
 * pip install numpy
 
 # Input
-![image](https://user-images.githubusercontent.com/73696432/236663050-8ee18d4d-79b5-4284-bfcf-016cbf5db745.png)
+![image](https://user-images.githubusercontent.com/73696432/236664193-234d48e1-236c-4bba-bf13-fff220084b86.png)
 
 # Output
 ![image](https://user-images.githubusercontent.com/73696432/236662944-c9a78a0a-8eb8-4f4b-9c48-29bce5e43949.png)
